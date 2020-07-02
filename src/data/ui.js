@@ -366,7 +366,8 @@ export const uiData = [
   },
   {
     name: "retiredPlayers",
-    desc: "Copy, paste, then remove this column from index.html",
+    desc:
+      "Let's run through data to learn about retired basketball players and their accomplishments",
     inputs: 1,
     type: "functional",
     typeNum: 300,
