@@ -317,7 +317,7 @@ export const uiData = [
     order: 304,
   },
   {
-    name: "chopItUp",
+    name: "splitItUp",
     desc: "N",
     inputs: 1,
     type: "functional",
